@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: your-dockerhub-username/html-webapp
+  repository: qwerty0853/gitops-html-app:latest
   pullPolicy: Always
   tag: "latest"
 
