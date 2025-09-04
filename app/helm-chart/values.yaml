@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: qwerty0853/gitops-html-app:latest
+  repository: qwerty0853/gitops-html-app
   pullPolicy: Always
   tag: "latest"
 
